@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
 <addon id="plugin.video.salvo" name="Salvo 5.0" version="1.0.3" provider-name="Seriel">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>    
@@ -24,4 +23,3 @@
     <source>https://github.com/Seriel/Kodi/raw/master/plugin.video.salvo</source>
   </extension>
 </addon>
-</addons>
