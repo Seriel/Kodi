@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.seriel" name="Seriel's Kodi Add-on" version="1.0" provider-name="Seriel [info@serielsrl.it]">
+<addon id="repository.seriel" name="Seriel Add-on repository" version="1.0.0" provider-name="Seriel [info@serielsrl.it]">
 	<extension point="xbmc.addon.repository" name="Seriel's KODI Addon Repository">
 		<info compressed="false">http://github.com/Seriel/Kodi/raw/master/addons.xml</info>
 		<checksum>http://github.com/Seriel/Kodi/raw/master/addons.xml.md5</checksum>
