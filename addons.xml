@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.salvo" name="Salvo 5.0" version="1.0.3" provider-name="Andrea399">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>    
+    <import addon="script.module.parsedom" version="0.9.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="it">Salvo 5.0</summary>
+    <summary lang="en">Salvo 5.0</summary>
+    <description lang="it">Canale di salvo 5.0.</description>
+    <description lang="en">Channel of salvo 5.0.</description>
+    <disclaimer lang="it">Alcune parti di questo addon potrebbero non essere legali nel tuo paese di residenza. Si prega di verificare la legislazione in vigore prima di installare.</disclaimer>
+    <disclaimer lang="en">Some parts of this addon may not be legal in your country of residence. Please check with your local laws before installing.</disclaimer>
+    <language>it</language>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+    <forum></forum>
+    <website>http://www.serielsrl.it</website>
+    <email>a.sant@serielsrl.it</email>
+    <source>https://github.com/Andrea399/Kodi/raw/master/plugin.video.salvo</source>
+  </extension>
+</addon>
+</addons>
