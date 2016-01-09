@@ -1,15 +1,2 @@
-[B]Version 1.0.4[/B]
-- Aggiunto alcuni menu.
-
-[B]Version 1.0.3[/B]
-- Piccole modifiche grafiche
-
-[B]Version 1.0.2[/B]
-- Aggiunta diretta.
-
-
-[B]Version 1.0.1[/B]
-- Prove tecniche.
-
 [B]Version 1.0.0[/B]
-- Versione iniziale.
+- Initial version.

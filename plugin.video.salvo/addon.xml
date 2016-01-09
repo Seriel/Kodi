@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.salvo" name="Salvo 5.0" version="1.0.4" provider-name="Seriel">
+<addon id="plugin.video.salvo" name="Salvo 5.0" version="1.0.0" provider-name="Andrea399">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>    
     <import addon="script.module.parsedom" version="0.9.1"/>
@@ -19,7 +19,7 @@
     <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
     <forum></forum>
     <website>http://www.serielsrl.it</website>
-    <email>info@serielsrl.it</email>
-    <source>https://github.com/Seriel/Kodi/raw/master/plugin.video.salvo</source>
+    <email>a.sant@serielsrl.it</email>
+    <source>https://github.com/Andrea399/Kodi</source>
   </extension>
 </addon>
