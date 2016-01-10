@@ -1,5 +1,5 @@
 [B]Version 1.0.7[/B]
-- Sistemato apici nei titoli.
+- Corretto apici nei titoli.
 
 [B]Version 1.0.6[/B]
 - Aggiunto alcuni menu.
