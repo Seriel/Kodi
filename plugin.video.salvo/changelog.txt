@@ -1,3 +1,6 @@
+[B]Version 1.0.8[/B]
+- Aggiunto icone menu.
+
 [B]Version 1.0.7[/B]
 - Corretto apici nei titoli.
 
