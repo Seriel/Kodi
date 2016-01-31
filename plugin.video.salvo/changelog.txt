@@ -1,3 +1,6 @@
+[B]Version 1.0.10[/B]
+- Ripristinato link normale, user agent KODI.
+
 [B]Version 1.0.9[/B]
 - Forzato link diretto.
 
