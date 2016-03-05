@@ -32,6 +32,6 @@
 		<forum>http://forum.kodi.tv/showthread.php?tid=200735</forum>
 		<website>http://www.youtube.com</website>
 		<email></email>
-		<source>https://github.com/rasberryrabbit/plugin.video.youtube</source>
+		<source>https://github.com/Seriel/Kodi/raw/master/plugin.video.youtube</source>
 	</extension>
 </addon>
