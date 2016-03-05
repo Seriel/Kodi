@@ -1,5 +1,5 @@
-5.1.18e (2016-02-28)
-[fix] Live Stream itag 91 error.
+5.1.18e (2016-02-29)
+[fix] LiveStream itag 91 error.
 
 5.1.18d (2016-02-25)
 [fix] Live folder is now working. Change API key for kodi 12 and kodi 13.
