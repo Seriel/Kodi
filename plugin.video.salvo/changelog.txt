@@ -1,4 +1,6 @@
 [B]Version 1.0.12[/B]
+- Aggiunto due menu.
+[B]Version 1.0.12[/B]
 - Fix dirette youtube funziona con 5.1.18e.
 [B]Version 1.0.11[/B]
 - Aggiunto link a youtube, skin sempre a icone.
