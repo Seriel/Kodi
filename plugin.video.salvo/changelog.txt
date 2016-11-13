@@ -1,4 +1,6 @@
-[B]Version 1.0.12[/B]
+[B]Version 1.0.14[/B]
+- Aggiunto menu Giuseppe Cocca.
+[B]Version 1.0.13[/B]
 - Aggiunto due menu.
 [B]Version 1.0.12[/B]
 - Fix dirette youtube funziona con 5.1.18e.
