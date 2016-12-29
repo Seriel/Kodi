@@ -1,3 +1,5 @@
+[B]Version 1.0.15[/B]
+- Aggiunto menu Immersioni nell'anima.
 [B]Version 1.0.14[/B]
 - Aggiunto menu Giuseppe Cocca.
 [B]Version 1.0.13[/B]
