@@ -23,7 +23,7 @@
     <forum></forum>
     <website>https://www.visionetv.it</website>
     <email>a.sant@serielsrl.it</email>
-    <source>https://github.com/Andrea399/Kodi/raw/master/plugin.video.visionetv</source>
+    <source>https://raw.githubusercontent.com/Seriel/Kodi/master/repo/zips/plugin.video.visionetv</source>
     <assets>
       <icon>resources/icon.png</icon>
       <fanart>resources/fanart.jpg</fanart>
@@ -31,8 +31,6 @@
       <screenshot>resources/screenshots/screenshot-01.jpg</screenshot>
       <screenshot>resources/screenshots/screenshot-02.jpg</screenshot>
     </assets>
-    <news>
-- Prima versione 
-    </news>
+    <news> - Prima versione</news>
   </extension>
 </addon>
